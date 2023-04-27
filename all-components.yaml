@@ -8,4 +8,3 @@ spec:
   targets:
     - https://github.com/laszlorostas/test2/blob/master/catalog-info.yaml
     - https://github.com/laszlorostas/backstage-test1/blob/master/catalog-info.yaml
-    - https://github.com/laszlorostas/backstage-test/blob/master/catalog-info.yaml
