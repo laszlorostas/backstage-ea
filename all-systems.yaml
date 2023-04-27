@@ -5,5 +5,6 @@ metadata:
   description: A collection of all Backstage example systems
 spec:
   targets:
-    - ./systems/first-software.yaml
-
+    - ./systems/artist-engagement-portal-system.yaml
+    - ./systems/audio-playback-system.yaml
+    - ./systems/podcast-system.yaml
