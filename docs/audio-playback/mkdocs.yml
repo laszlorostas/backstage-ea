@@ -3,8 +3,6 @@ site_name: 'example-docs'
 nav:
   - Home: index.md
 
-docs_dir: docs/audio-playback/sections
-
 plugins:
   - techdocs-core
   - kroki
