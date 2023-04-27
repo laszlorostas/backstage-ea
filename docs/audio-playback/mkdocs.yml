@@ -1,0 +1,12 @@
+site_name: 'example-docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
+  - kroki
+  - include-markdown
+  - pdf-export:
+      combined: true
+  - mermaid2
